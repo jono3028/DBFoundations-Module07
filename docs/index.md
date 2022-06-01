@@ -1,8 +1,8 @@
-Jonathan Owen
-May 31, 2022
-IT FDN 130 A Sp 22
-Assignment 07
-<https://github.com/jono3028/DBFoundations-Module07>
+Jonathan Owen  
+May 31, 2022  
+IT FDN 130 A Sp 22  
+Assignment 07  
+<https://github.com/jono3028/DBFoundations-Module07>  
 
 ## Introduction
 A built-in system function allows a database user to perform common tasks that could potentially be useful in any database. However, when data within a specific database must be manipulated in a bespoke way, potentially repetitively, a User Defined Function (UDF) may be created to simplify the action. This paper will discuss the UDFs and the different types that may be used.
